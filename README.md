@@ -56,8 +56,10 @@ This project uses the information from [POKEAPI](https://pokeapi.co/)
 
 ## .flaskenv
 
+```
 FLASK_APP
 FLASK_ENV
+```
 
 ## Questions?
 
