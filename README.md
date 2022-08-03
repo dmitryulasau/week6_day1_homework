@@ -59,6 +59,8 @@ This project uses the information from [POKEAPI](https://pokeapi.co/)
 ```
 FLASK_APP
 FLASK_ENV
+SQLALCHEMY_DATABASE_URI
+SQLALCHEMY_TRACK_MODIFICATIONS
 ```
 
 ## Questions?
